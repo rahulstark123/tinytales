@@ -3,6 +3,10 @@ Author : Rahul Raj
 College : Lovely Professional University 
 Task : terriblytinytales assignment 
 Year : 3rd Year 
+
+!IMPORTANT : It is also deployed to netlify also as asked ;
+Please check here : https://rahultinytalesproject.netlify.app/
+!IMPORTANT !!!!!!!!!!!!!!!!!!
 */
 
 A description of the code
